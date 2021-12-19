@@ -11,3 +11,25 @@
 1. Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL. 
 
 1. Модифицируйте код вашего сервиса таким образом, чтобы он поддерживал защищенное соединение.
+
+![image](https://user-images.githubusercontent.com/92590831/146690970-051904ee-9c1c-4805-8cb6-b16e117d5027.png)
+
+
+![image](https://user-images.githubusercontent.com/92590831/146690963-399e2aad-a09b-4183-978d-c04b0103c94b.png)
+
+
+![image](https://user-images.githubusercontent.com/92590831/146690335-2668f3ee-6492-477d-8a6c-5eb3cbc9b915.png)
+
+![image](https://user-images.githubusercontent.com/92590831/146690338-00a6e8f6-2112-47db-9cb8-dff19072042f.png)
+
+![image](https://user-images.githubusercontent.com/92590831/146690352-56e0c1ed-a241-4925-bb0e-9fdde0585d9d.png)
+
+
+![image](https://user-images.githubusercontent.com/92590831/146690931-aa752bf4-07f6-41b3-9ad9-5af72c2e979b.png)
+
+![image](https://user-images.githubusercontent.com/92590831/146690979-73155279-83b3-41fa-93f7-c06cd783b668.png)
+
+![image](https://user-images.githubusercontent.com/92590831/146691050-8ee37919-d60a-4de4-b2e2-5fa40c8d2342.png)
+
+![image](https://user-images.githubusercontent.com/92590831/146691052-6eaf4232-4b5a-4869-9c8c-a2780e24f70a.png)
+
